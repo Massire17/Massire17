@@ -1,0 +1,7 @@
+{
+  "name": "calculatrice",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
